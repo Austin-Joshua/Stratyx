@@ -1,0 +1,17 @@
+{
+  "user": {
+    "name": "Demo User",
+    "email": "demo@stratyx.test",
+    "password": "Password123!"
+  },
+  "items": [
+    {
+      "title": "Launch Q3 GTM Plan",
+      "description": "Finalize launch plan and stakeholder sign-off."
+    },
+    {
+      "title": "Migrate CRM Workflows",
+      "description": "Complete migration with zero critical incidents."
+    }
+  ]
+}

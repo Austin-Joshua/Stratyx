@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build / cache
+frontend/.next/
+frontend/out/
+*.tsbuildinfo
+
+# Environment and secrets (use .env.example)
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env.local
+
+# Uploads and local data
+uploads/
+backend/uploads/
+
+# Go
+*.exe
+*.test
+*.out
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
